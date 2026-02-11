@@ -9,7 +9,9 @@ Cada livro é representado por uma classe chamada Livro.
 
 Um livro tem atributos como título, autor e ano de publicação.
 O título de cada livro deve ser único.
-A classe Biblioteca é responsável por armazenar todos os livros. Deste modo, a classe tem uma variável de instância chamada livros que é um ArrayList<Livro> e uma variável de classe chamada MAX_LIVROS que define o número máximo de livros que podem ser armazenados.
+
+A classe Biblioteca é responsável por armazenar todos os livros. Deste modo, a classe tem uma variável de instância chamada livros que é um 
+ArrayList<Livro> e uma variável de classe chamada MAX_LIVROS que define o número máximo de livros que podem ser armazenados.
 
 A tua tarefa é implementar os métodos responsáveis por:
 
